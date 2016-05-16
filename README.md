@@ -53,7 +53,6 @@ cd 2016-OSCON-containers-at-scale-with-Kubernetes
 Create a directory for cluster configuration and move into it before following the `kube-aws` setup below.
 
 ```
-mkdir mycluster
 cd mycluster
 ```
 
